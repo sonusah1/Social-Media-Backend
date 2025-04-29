@@ -1,0 +1,17 @@
+
+PORT= 2100
+MONGODB_URL=Your mongoDb url
+
+CORS_ORIGIN =*
+
+ACCESS_TOKEN_SECRET =generate long string
+
+ACCESS_TOKEN_EXPIRY=1d
+
+REFRESH_TOKEN_SECRET =generate long string
+REFRESH_TOKEN_EXPIRY=30d
+
+
+CLOUDINARY_CLOUD_NAME =your clodinaryName
+CLOUDINARY_API_KEY =Cloudinary Api_Key
+CLOUDINARY_API_SECRET =Cloudinary Api_Secret
